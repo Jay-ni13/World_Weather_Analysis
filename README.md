@@ -20,4 +20,6 @@ Once the vacation destinations had been optimized, the beta testers were able to
 
 ![Travel Map](https://github.com/Jay-ni13/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
+![Hotel Markers](https://github.com/Jay-ni13/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 Overall, the PlanMyTrip app has done remarkably well through its beta testing phase and we are eagerly awaiting the final round of testing and the suggestions from our participants before we launch the finished product.
